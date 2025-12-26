@@ -1,0 +1,9 @@
+{
+    "name": "AI Vocabulary Generator",
+    "package": "ai_generator",
+    "author": "Reza Amini",
+    "version": "1.0.0",
+    "anki_version": "25.0",
+    "description": "Generate vocabulary flashcards using AI and JSON output",
+    "homepage": "https://github.com/reziamini/anki-vocab-generator"
+}
